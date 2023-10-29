@@ -9,7 +9,7 @@ To be updated
 
 ##
 
-[![My Skills](https://skillicons.dev/icons?i=matlab,py,c++,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=matlab,py,cpp,git,bash)](https://skillicons.dev)
 
 <!--
 **sandeep026/sandeep026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
