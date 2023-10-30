@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sandeep, a researcher  who studies numerical methods for real-time optimal control.  I believe strongly that open development leads to better and more reproducible research, and strive to make all my research-related code available, primarily via this GitHub account.
+I'm Sandeep, a researcher  who studies numerical methods for real-time optimal control. Because I firmly think that research done with open development is better and more reproducible, I try to make all of the code associated with my work publicly available, mostly through my GitHub account.
 
 ## Current research
 To be updated
@@ -7,7 +7,7 @@ To be updated
 ## Utilities
 To be updated
 
-##
+## Languages
 
 [![My Skills](https://skillicons.dev/icons?i=matlab,py,cpp,git,bash)](https://skillicons.dev)
 
