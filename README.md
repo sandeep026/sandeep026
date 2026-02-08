@@ -1,11 +1,8 @@
-### Hi there 👋
-I'm Sandeep, a researcher  who studies numerical methods for real-time optimal control. Because I firmly think that research done with open development is better and more reproducible, I try to make all of the code associated with my work publicly available, mostly through my GitHub account.
+Sandeep | Researcher in Real-Time Optimal Control
 
-## Current research
-To be updated
+Dedicated to advancing numerical methods for constrained dynamical systems. I develop and maintain open-source software for the control community, driven by the belief that reproducible research starts with open code.
 
-## Utilities
-To be updated
+🛠 Current Focus: Numerical Transcription • Real-Time Solvers • Open Development
 
 ## Languages
 
