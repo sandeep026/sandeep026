@@ -1,10 +1,15 @@
-Sandeep | Researcher in Real-Time Optimal Control
+Sandeep | Numerical Optimization & Optimal Control Engineer
 
-Dedicated to advancing numerical methods for constrained dynamical systems. I develop and maintain open-source software for the control community, driven by the belief that reproducible research starts with open code.
+Bio:
+I bridge the gap between control theory and high-performance computation. My work focuses on making optimization algorithms fast enough for real-time aerospace and naval applications.
 
-🛠 Current Focus: Numerical Transcription • Real-Time Solvers • Open Development
+🚀 Expertise: Developing solvers for trajectory optimization and MPC.
 
-## Languages
+🛠️ Evolution: Migrated core control architectures from MATLAB/CasADi to high-efficiency Python implementations.
+
+🌐 Open Source: Dedicated to making complex control tools accessible and reproducible.
+
+Check out my repositories for production-ready control codes and experimental optimization snippets.
 
 [![My Skills](https://skillicons.dev/icons?i=matlab,py,cpp,git,bash)](https://skillicons.dev)
 
