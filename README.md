@@ -1,15 +1,9 @@
 Sandeep | Numerical Optimization & Optimal Control Engineer
 
 Bio:
-I bridge the gap between control theory and high-performance computation. My work focuses on making optimization algorithms fast enough for real-time aerospace and naval applications.
+I am a Numerical Optimization and Optimal Control Engineer specializing in making advanced algorithms fast enough for real-time aerospace and naval applications. My expertise lies at the intersection of trajectory optimization and Model Predictive Control (MPC), with a specific focus on execution speed and computational efficiency.
 
-🚀 Expertise: Developing solvers for trajectory optimization and MPC.
-
-🛠️ Evolution: Migrated core control architectures from MATLAB/CasADi to high-efficiency Python implementations.
-
-🌐 Open Source: Dedicated to making complex control tools accessible and reproducible.
-
-Check out my repositories for production-ready control codes and experimental optimization snippets.
+Throughout my career, I have specialized in modernizing control architectures—successfully transitioning core algorithms from MATLAB prototyping environments into highly optimized, deployment-ready Python frameworks. Driven by a commitment to open engineering, I actively develop and share open-source tools to make complex numerical control accessible, verifiable, and reproducible.
 
 [![My Skills](https://skillicons.dev/icons?i=matlab,py,cpp,git,bash)](https://skillicons.dev)
 
