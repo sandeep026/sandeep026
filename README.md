@@ -41,6 +41,7 @@ I build efficient, deployment-ready frameworks, modernizing optimization and con
   Chennai, India  
   July 2019  
 
+I have experience with the following languages and frameworks.
 
 [![My Skills](https://skillicons.dev/icons?i=matlab,py,cpp,git,bash)](https://skillicons.dev)
 
