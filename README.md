@@ -6,6 +6,7 @@ I build efficient, deployment-ready frameworks, modernizing optimization and con
 
 ### My research works
 
+#### Journal articles 
 - **R. Sandeepkumar** and R. Mohan  
   [Differential flatness-based pseudospectral optimal control of 6DoF aircraft and its issues](http://journals.sagepub.com/doi/10.1177/09544100221112724)
   Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering  
@@ -24,7 +25,7 @@ I build efficient, deployment-ready frameworks, modernizing optimization and con
   volume 243, page 110165  
   January 2022
   
-# Conference proceedings
+#### Conference proceedings
 
 - **R. Sandeepkumar** and R. Mohan  
   [Flatness-Based Aircraft Trajectory Optimization and Tracking Using Pseudospectral Method](https://arc.aiaa.org/doi/10.2514/6.2020-0374)  
